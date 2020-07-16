@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Dimple Arora, founder Raspbians 👋
 
-<!--
-**dimpscapri/dimpscapri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my organization Raspbians
+- 🌱 I’m currently learning Machine Learning in Python
+- 👯 I’m looking to collaborate on Any Technology
+- 🤔 I’m looking for help with Advertising
+- 💬 Ask me about Technologies
+- 📫 Organisation Social Media:
+  - YouTube: [Raspbians](https://www.youtube.com/channel/UCzQaWd7GCYv2GFCdcWmp3DQ)
+  - Facebook: [@Raspbians](https://www.facebook.com/pg/raspbians)
+  - Twitter: [@Raspbians](https://twitter.com/raspbians)
+  - Instagram: [@Raspbians](https://www.instagram.com/raspbians/)
+- 😄 Pronouns: She/Her
