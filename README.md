@@ -10,6 +10,5 @@ About Me:
 - 📫 Organisation Social Media:
   - YouTube: [Raspbians](https://www.youtube.com/channel/UCzQaWd7GCYv2GFCdcWmp3DQ)
   - Facebook: [@Raspbians](https://www.facebook.com/pg/raspbians)
-  - Twitter: [@Raspbians](https://twitter.com/raspbians)
   - Instagram: [@Raspbians](https://www.instagram.com/raspbians/)
 - 😄 Pronouns: She/Her
